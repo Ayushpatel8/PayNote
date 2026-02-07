@@ -1,2 +1,2 @@
 # PayNote
-Accounting &amp; Billing Ssytem
+Accounting &amp; Billing Sytem
